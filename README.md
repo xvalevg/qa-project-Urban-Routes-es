@@ -34,3 +34,11 @@
 - Abre un terminal
 - Ubícate en el terminal la carpeta del proyecto donde se encuentra el archivo test_page.py . 
 - Ejecuta todas las pruebas con el comando ```pytest ```.
+
+
+### NOTA PARA EL REVISOR:
+Respecto a la correción enviada por el revisor:
+ ⛔️ Correcciones necesarias
+Asserts en las pruebas: Asegúrate de que todas las pruebas incluyan aserciones (assert) para validar los resultados esperados. Esto es fundamental para garantizar que las pruebas verifican adecuadamente el comportamiento de la aplicación.
+
+- R: Todos los test tienen un assert (son 6 los test existentes y se cuentan con 8 asserts). Se han creado funciones auxiliares para que se pueda reutilizar el código. Estas funciones no contienen asserts debido a que no son test.

@@ -1,5 +1,5 @@
-# Proyecto Urban Grocers - Sprint 8
-## Por: Ximena Valeria Velasco, cohorte 20
+# Proyecto Urban Grocers 
+## Por: Ximena Valeria Velasco
 
 ### Descripción
 - Urban Routes es una plataforma que permite seleccionar un viaje en taxi entre 2 ubicaciones, seleccionar el tipo de viaje, agregar datos de contacto y hacer requerimientos adicionales para finalmente pedir un taxi.
